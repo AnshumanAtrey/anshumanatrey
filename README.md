@@ -26,5 +26,5 @@ from 🇮🇳, I love to bring interesting ideas to life.
 #### 🛠️ tech arsenal
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,webflow,wordpress,vite,vercel,postman,github,vscode,python,java,cpp,ts,nodejs,express,bash,linux&perline=10" style="width:80%;" />
+  <img src="https://skillicons.dev/icons?i=webflow,wordpress,figma,html,css,tailwind,js,ts,nodejs,express,react,vite,vercel,postman,github,git,mysql,mongodb,vscode,bash,linux,kali,python,java,cpp,arduino&perline=13" style="width:90%;"/>
 </p>
