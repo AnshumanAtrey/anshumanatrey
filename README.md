@@ -1,54 +1,41 @@
-##### 🐧 Pekk Pekk Peekkak
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&display=swap" rel="stylesheet">
+<style>
+    .emoji {
+  font-family: "Noto Color Emoji", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+</style>
 
-<!-- <div align="center">
-  <h1>
-    ॐ नमः शिवाय<br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6FDA44&center=true&vCenter=true&width=435&lines=Namaste%2C+I'm+Atrey;A+Solarpunk+Developer;Building+for+a+Better+Tomorrow" alt="Typing SVG" />
-  </h1>
-</div>
+### welcome to the realm of <a href="https://atrey.dev/">atrey.dev</a>
 
-## 🌿 About Me
+##### building Full Stack Apps, AI Agents & Automations
 
-<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJtNXE4Y2E2bWF1aHo5Y2JyZXBxbGh1ZWs4NjVyMXd0ZDJwcWx6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f7omQNmgiyjj5sffvZ/giphy.gif" />
+from <span class="emoji">🇮🇳</span>, I love to bring interesting ideas to life.
 
-> _"Where technology meets mythology, and innovation dances with tradition"_
+> _working on: [project AISHA](https://github.com/AnshumanAtrey/Project-AISHA) & [clank](https://github.com/AnshumanAtrey/clank)_
 
-- 🌱 Embracing **Solarpunk** ideologies for a sustainable future
-- 🕉️ Inspired by **Hindu Mythology** and ancient wisdom
-- 🚀 Exploring the realms of **Space** and **Robotics**
-- 🛡️ Passionate about **Ethical Hacking** and Cybersecurity
-- 🌍 Building for a greener tomorrow
+<hr>
 
-## 🎯 Connect & Follow
+#### <span class="emoji">🐧</span> about me
+
+- polymath, paradoxical & koinophobic
+- embracing [solarpunk](https://en.wikipedia.org/wiki/Solarpunk) & [sanātan](https://en.wikipedia.org/wiki/San%C4%81tana_Dharma) ideologies
+- excited about _space_, _time_, _astronomy_, _mythology_
+- learning **cyber security** & **mechatronics**
+- loves anime, chess, indian cusine, mma <span class="emoji">🥂</span>
+<p align="left">
+  <a href="https://leetcode.com/yourusername/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://open.spotify.com/user/31nta2ggatvhtewkqff7k2fkoqgq?si=365ac6ca22904bf9" target="_blank"><img src="https://img.shields.io/badge/Spotify-%23000000.svg?style=for-the-badge&logo=spotify&logoColor=#23d660&backgroundColor=white"/></a>
+  <a href="https://www.chess.com/member/yourusername" target="_blank"><img src="https://img.shields.io/badge/Chess.com-%23000000.svg?style=for-the-badge&logo=chess.com&logoColor=%2381b64c"/></a>
+</p>
+
+<hr>
+
+#### 🛠️ tech arsenal
 
 <p align="left">
-  <a href="https://lichess.org/@/YourUsername" target="_blank"><img src="https://img.shields.io/badge/Lichess-%23000000.svg?style=for-the-badge&logo=lichess&logoColor=white"/></a>
-  <a href="https://open.spotify.com/user/YourUsername" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?style=for-the-badge&logo=spotify&logoColor=white"/></a>
-  <a href="https://myanimelist.net/profile/YourUsername" target="_blank"><img src="https://img.shields.io/badge/MyAnimeList-%232E51A2.svg?style=for-the-badge&logo=myanimelist&logoColor=white"/></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,webflow,wordpress,vite,vercel,postman,github,vscode,python,java,cpp,ts,nodejs,express,bash,linux&perline=10" style="width:80%;" />
 </p>
-
-## 🛠️ Tech Arsenal
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,html,css,python,cpp,linux" />
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<div align="center">
-
-### 🎵 Currently Vibing To
-
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/YourUsername)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</div> -->
