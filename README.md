@@ -16,9 +16,9 @@ from 🇮🇳, I love to bring interesting ideas to life.
 - learning **cyber security** & **mechatronics**
 - loves anime, chess, indian cusine, mma 🥂
 <p align="left">
-  <a href="https://leetcode.com/yourusername/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/anshumanatrey/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
   <a href="https://open.spotify.com/user/31nta2ggatvhtewkqff7k2fkoqgq?si=365ac6ca22904bf9" target="_blank"><img src="https://img.shields.io/badge/Spotify-%23000000.svg?style=for-the-badge&logo=spotify&logoColor=#23d660&backgroundColor=white"/></a>
-  <a href="https://www.chess.com/member/yourusername" target="_blank"><img src="https://img.shields.io/badge/Chess.com-%23000000.svg?style=for-the-badge&logo=chess.com&logoColor=%2381b64c"/></a>
+  <a href="https://www.chess.com/member/anshumanatrey" target="_blank"><img src="https://img.shields.io/badge/Chess.com-%23000000.svg?style=for-the-badge&logo=chess.com&logoColor=%2381b64c"/></a>
 </p>
 
 <hr>
