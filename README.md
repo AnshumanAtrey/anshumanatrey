@@ -1,6 +1,6 @@
 ### github realm of <a href="https://atrey.dev/">atrey.dev</a>
 
-##### building Full Stack Apps, AI Agents & Automations
+##### predicting future and building projects
 
 from 🇮🇳, I love to bring interesting ideas to life.
 
